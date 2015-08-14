@@ -1,0 +1,17 @@
+{
+  "name": "gulp-css-timestamp",
+  "version": "0.0.1",
+  "main": "./index.js",
+  "description": "add timestamp on css-image",
+  "author": {
+    "name": "A.Nezu",
+    "url": "http://blog.nzakr.com/"
+  },
+  "dependencies": {
+    "through2": "*",
+    "gulp-util": "*"
+  },
+  "licenses": "MIT",
+  "readme": "add timestamp on css-image",
+  "readmeFilename": "README.md"
+}
